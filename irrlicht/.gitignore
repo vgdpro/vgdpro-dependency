@@ -1,0 +1,7 @@
+.DS_Store
+/source/Irrlicht/MacOSX/build
+/source/Irrlicht/MacOSX/MacOSX.xcodeproj/project.xcworkspace
+/source/Irrlicht/MacOSX/MacOSX.xcodeproj/xcuserdata
+/bin/MacOSX
+/irrlicht.patch
+/premake5.lua
